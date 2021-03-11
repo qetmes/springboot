@@ -1,0 +1,3 @@
+springboot非web工程，利用springboot容器调用业务层bean.
+springboot程序启动后，返回值是ConfigurableApplicationContext,它也是一个spring容器
+它其实相当于原来spring容器中启动容器ClasspathXmlApplicationContext
