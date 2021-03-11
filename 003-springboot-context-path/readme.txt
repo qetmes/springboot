@@ -1,0 +1,2 @@
+学习使用springboot框架的核心配置文件application.properties
+核心配置文件每一个项目只能有一个。
