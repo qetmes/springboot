@@ -1,0 +1,10 @@
+SpringBoot下的SpringMVC和之前的SpringMVC使用是完全一样的，
+主要有以下注解:
+@Controller
+@RestController
+@RequestMapping
+@GetMapping
+@PostMapping
+@PutMapping
+@DeleteMapping
+使用方法见讲义。
